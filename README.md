@@ -14,12 +14,14 @@
 # 🤝 Connect with me:
 <p align="left">
 <a href="https://twitter.com/shubanms1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubanms1" height="30" width="40" /></a>
+  
 <a href="https://stackoverflow.com/users/shuban-ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuban-ms" height="30" width="40" /></a>
-<a href="https://kaggle.com/shubanms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubanms" height="30" width="40" /></a>
-<a href="https://instagram.com/shuban_ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuban_ms" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/msshuban4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="msshuban4" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shuban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shuban" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/msshuban4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msshuban4" height="30" width="40" /></a>
+
+<a href="https://www.kaggle.com/ammanchhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubanms" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/amman_chhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuban_ms" height="30" width="40" /></a>
+
+<a href="https://auth.geeksforgeeks.org/user/ammanchhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msshuban4" height="30" width="40" /></a>
 </p>
 
 <br>
