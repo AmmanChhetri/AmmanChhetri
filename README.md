@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amman Chhetri! <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%></h1>
-<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in B.Tech Electronics and Computer Engineering.</h3>
+<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in B.Tech Computer Science and Engineering with Specialiszation in AI and ML.</h3>
 
 <p align="center"> 
   Visitor count<br>
@@ -13,15 +13,11 @@
 
 # 🤝 Connect with me:
 <p align="left">
-<a href="https://twitter.com/shubanms1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubanms1" height="30" width="40" /></a>
-  
-<a href="https://stackoverflow.com/users/shuban-ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuban-ms" height="30" width="40" /></a>
-
-<a href="https://www.kaggle.com/ammanchhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubanms" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/amman_chhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuban_ms" height="30" width="40" /></a>
-
-<a href="https://auth.geeksforgeeks.org/user/ammanchhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msshuban4" height="30" width="40" /></a>
+<a href="https://twitter.com/shubanms1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubanms1" height="30" width="40" /></a>  
+<a href="https://stackoverflow.com/users/shuban-ms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuban-ms" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ammanchhetri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubanms" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amman_chhetri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuban_ms" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ammanchhetri" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msshuban4" height="30" width="40" /></a>
 </p>
 
 <br>
