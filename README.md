@@ -13,8 +13,8 @@
 
 # 🤝 Connect with me:
 <p align="left">
-<a href="https://twitter.com/shubanms1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubanms1" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/shuban-ms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuban-ms" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/22200173/ammanchhetri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuban-ms" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ammanchhetri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubanms" height="30" width="40" /></a>
 <a href="https://www.instagram.com/amman_chhetri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuban_ms" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ammanchhetri" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="msshuban4" height="30" width="40" /></a>
