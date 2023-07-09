@@ -31,8 +31,8 @@
 
 # 📊 GitHub Stats:
 
-<img align="centre" width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shubanms&layout=compact&count_private=true&langs_count=10&hide=html,css,Makefile"/>
+<img align="centre" width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmmanChhetri&layout=compact&count_private=true&langs_count=10&hide=html,css,Makefile"/>
 
-<img align="centre" width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shubanms&show_icons=true&count_private=true&include_all_commits=true" />
+<img align="centre" width="500" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmmanChhetri&show_icons=true&count_private=true&include_all_commits=true" />
 
-<img align="centre" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=shubanms&" alt="shubanms"/>
+<img align="centre" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmanChhetri&" alt="AmmanChhetri"/>
