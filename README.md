@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Amman Chhetri! <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%></h1>
-<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in B.Tech Computer Science and Engineering with Specialiszation in AI and ML.</h3>
+<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in </h3>
+<h3 align='center'> B.Tech Computer Science and Engineering with Specialization in AI and ML.</h3>
 
 <p align="center"> 
   Visitor count<br>
