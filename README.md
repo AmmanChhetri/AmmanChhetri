@@ -2,9 +2,11 @@
 <h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in </h3>
 <h3 align='center'> B.Tech Computer Science and Engineering with Specialization in AI and ML.</h3>
 
+
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AmmanChhetri/count.svg" />
+  <img src="https://profile-counter.glitch.me/AmmanChhetri/count.svg?exclude_self=true" />
 </p>
 
 # 🏆 GitHub Trophies 
