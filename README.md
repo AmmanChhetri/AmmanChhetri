@@ -6,7 +6,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AmmanChhetri/count.svg?exclude_self=true" />
+  <img src="https://profile-counter.glitch.me/AmmanChhetri/count.svg" />
 </p>
 
 # 🏆 GitHub Trophies 
