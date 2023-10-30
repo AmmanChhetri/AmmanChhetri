@@ -2,6 +2,8 @@
 <h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in </h3>
 <h3 align='center'> B.Tech Computer Science and Engineering with Specialization in AI and ML.</h3>
 
+<img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47p7mj9h7j8gvv6ebjef2ywd7dlyf4nfepr2fczll7&rid=giphy.gif&ct=g">
+
 
 
 <p align="center"> 
